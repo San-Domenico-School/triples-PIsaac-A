@@ -88,7 +88,7 @@ public class Card extends Actor
      */
     public void act()
     {
-        // Add your action code here.
+        
     }
 }
 
