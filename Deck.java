@@ -3,8 +3,8 @@ import greenfoot.*;
 /**
  * Contains and shuffles the deck. Either 27 or 81 cards.
  * 
- * @author Isaac Archer and Bruce Gustin 
- * @version 1/17/23
+ * @author Isaac Archer 
+ * @version 1.0
  */
 
 

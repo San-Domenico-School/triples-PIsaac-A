@@ -1,10 +1,10 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 import java.util.ArrayList;
 /**
- * Write a description of class Player here.
+ * The class that interacts with the cards on board and holds the selected cards
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author Isaac
+ * @version 1.0
  */
 public class Player extends Actor
 {
